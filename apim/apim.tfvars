@@ -2,7 +2,7 @@
 location = "westeurope"
 region = "westeurope"
 prefix = "asisa"
-uniqueId = "230520231007"
+uniqueId = "0520231007"
 apimSku = "Developer"
 apimSkuCapacity = 1
 apimPublisherName = "fecohi"
