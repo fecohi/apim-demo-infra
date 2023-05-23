@@ -1,9 +1,9 @@
 
 location = "westeurope"
 region = "westeurope"
-prefix = "contoso"
-uniqueId = "123"
+prefix = "asisa"
+uniqueId = "230520231007"
 apimSku = "Developer"
 apimSkuCapacity = 1
-apimPublisherName = "Contoso"
-apimPublisherEmail = "itadmins@contoso.com"
+apimPublisherName = "fecohi"
+apimPublisherEmail = "itadmins@fecohi.com"
